@@ -4,14 +4,27 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer, Digital Animator and Marketer
 ---------------------------------------------------------
 
-👋 Welcome to my GitHub profile! I'm Luisa, a passionate web developer and designer, digital animator, and marketer student. 💻 Web Development and Design: With a strong foundation in HTML, CSS, and JavaScript, I create engaging and interactive websites that blend aesthetics with seamless user experiences. I enjoy bringing ideas to life by leveraging frameworks and libraries such as React.js and Vue.js, and I have experience working with backend technologies like Node.js and Express. 🎨 Digital Animation: I have a creative eye and love incorporating animation into my projects. Whether it's adding subtle transitions or creating eye-catching motion graphics, I strive to make digital experiences more captivating and dynamic. 📈 Marketing: As a student of marketing, I have a deep understanding of digital marketing strategies and techniques. I'm familiar with social media management, content creation, SEO, and analytics, which allows me to design and develop websites with marketing goals in mind. 📚 Constant Learner: Technology is ever-evolving, and I am committed to staying up-to-date with the latest trends and tools in the industry. I enjoy expanding my knowledge by taking online courses, attending webinars, and engaging in collaborative projects with other developers. 🤝 Collaboration: I thrive in collaborative environments and believe in the power of teamwork. I enjoy working with cross-functional teams, where I can contribute my skills and also learn from others. I'm always open to new opportunities and projects that challenge me to grow both personally and professionally. 🌟 Let's connect! Feel free to explore my repositories and projects. If you have any questions, ideas, or collaboration proposals, don't hesitate to reach out. I'm excited to be a part of the vibrant GitHub community and look forward to connecting with fellow developers, designers, animators, and marketers!
+👋 Welcome to my GitHub profile! I'm Luisa, a passionate web developer and designer, digital animator, and marketer student. 
 
-*   🌍  I'm based in Bogota D.C. Colombia
-*   ✉️  You can contact me at [luisamartinez030503@gmail.com](mailto:luisamartinez030503@gmail.com)
-*   🧠  I'm learning Web Development and Design, Digital Animation and Digital Marketing
+💻 Web Development and Design: With a strong foundation in HTML, CSS, and JavaScript, I create engaging and interactive websites that blend aesthetics with seamless user experiences. I enjoy bringing ideas to life by leveraging frameworks and libraries such as React.js and Vue.js, and I have experience working with backend technologies like Node.js and Express. 
+
+🎨 Digital Animation: I have a creative eye and love incorporating animation into my projects. Whether it's adding subtle transitions or creating eye-catching motion graphics, I strive to make digital experiences more captivating and dynamic. 
+
+📈 Marketing: As a student of marketing, I have a deep understanding of digital marketing strategies and techniques. I'm familiar with social media management, content creation, SEO, and analytics, which allows me to design and develop websites with marketing goals in mind. 
+
+📚 Constant Learner: Technology is ever-evolving, and I am committed to staying up-to-date with the latest trends and tools in the industry. I enjoy expanding my knowledge by taking online courses, attending webinars, and engaging in collaborative projects with other developers. 
+
+🤝 Collaboration: I thrive in collaborative environments and believe in the power of teamwork. I enjoy working with cross-functional teams, where I can contribute my skills and also learn from others. I'm always open to new opportunities and projects that challenge me to grow both personally and professionally. 
+
+🌟 Let's connect! Feel free to explore my repositories and projects. If you have any questions, ideas, or collaboration proposals, don't hesitate to reach out. I'm excited to be a part of the vibrant GitHub community and look forward to connecting with fellow developers, designers, animators, and marketers!
+
+🌍  I'm based in Bogota D.C. Colombia
+
+✉️  You can contact me at [luisamartinez030503@gmail.com](mailto:luisamartinez030503@gmail.com)
+
+🧠  I'm learning Web Development and Design, Digital Animation and Digital Marketing
 
 ### Skills 
-
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -38,7 +51,6 @@ Web Developer and Designer, Digital Animator and Marketer
 </p>              
 
 ### Socials
-
 <p align="left">
     <a href="https://www.behance.com/Luartemz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
     <a href="https://www.facebook.com/LMaRez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
@@ -48,13 +60,10 @@ Web Developer and Designer, Digital Animator and Marketer
 </p>
 
 ### Badges
-
 <!-- Add any badges you want here -->
 
 ### My GitHub Stats
-
 <!-- Replace 'LuaMartz' with your GitHub username in the URLs below -->
-
 <a href="http://www.github.com/LuaMartz">
     <img src="https://github-readme-stats.vercel.app/api?username=LuaMartz&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="LuaMartz's GitHub stats" />
 </a>
