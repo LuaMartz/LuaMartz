@@ -8,7 +8,10 @@ Web Developer and Designer, Digital Animator and Marketer
 
 *   🌍  I'm based in Bogota D.C. Colombia
 *   ✉️  You can contact me at [luisamartinez030503@gmail.com](mailto:luisamartinez030503@gmail.com)
-*   🧠  I'm learning Web Development and Design, Digital Animation and Digital Marketing### Skills 
+*   🧠  I'm learning Web Development and Design, Digital Animation and Digital Marketing
+
+### Skills 
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -32,22 +35,32 @@ Web Developer and Designer, Digital Animator and Marketer
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
+</p>              
+
+### Socials
+
+<p align="left">
+    <a href="https://www.behance.com/Luartemz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
+    <a href="https://www.facebook.com/LMaRez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+    <a href="https://www.github.com/LuaMartz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+    <a href="http://www.instagram.com/luartemz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+    <a href="https://www.linkedin.com/in/luamartz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.behance.com/Luartemz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.facebook.com/LMaRez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/LuaMartz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/luartemz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/luamartz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/LuaMartz"><img src="https://github-readme-stats.vercel.app/api?username=LuaMartz&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="LuaMartz's GitHub stats" /></a><a
-                      href="http://www.github.com/LuaMartz"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=LuaMartz&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/LuaMartz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaMartz&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Badges
+
+<!-- Add any badges you want here -->
+
+### My GitHub Stats
+
+<!-- Replace 'LuaMartz' with your GitHub username in the URLs below -->
+
+<a href="http://www.github.com/LuaMartz">
+    <img src="https://github-readme-stats.vercel.app/api?username=LuaMartz&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="LuaMartz's GitHub stats" />
+</a>
+<a href="http://www.github.com/LuaMartz">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuaMartz&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
+<a href="https://github.com/LuaMartz" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaMartz&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
